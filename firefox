@@ -1,0 +1,179 @@
+Function 					--------		Shortcut		Alternate	Second Alt.
+
+Navigation:-
+
+Back						--------		A + left arrow		C + [
+Forward						--------		A + right arrow 	C + ]
+Home 						--------		A + Home		-----	
+Open File					--------		C + o			-----	
+Reload						--------		F5			C + r
+Reload(Override Cache)				--------		C + F5			C + S + r
+Stop						--------		Esc			-----
+
+Current Page:-
+
+Focus Next Link or Input Field			--------		Tab			-----	
+Focus Prev Link or Input Field			--------		S + Tab			-----
+Go Down a Screen				--------		Pd			Space
+Go Up a Screen					--------		Pu			S + Space
+Go to Bottom of Page				--------		End			C + down arrow
+Go to Top of Page				--------		Home			C + up arrow
+Move to Next Frame, Pop-up			--------		F6			-----
+Move to Prev Frame, Pop-Up			--------		S + F6 			-----
+Print						--------		C + p			-----
+Save Focused Link(DOSENT WORK BY DEFAULT)	--------		A + Enter		-----
+Save Page as					--------		C + s			-----
+Zoom in 					--------		C + +			-----
+Zoom out					--------		C + -			-----
+Zoom Reset 					--------		C + 0			-----
+
+Editing:-
+
+Copy						--------		C + c			-----
+Cut						--------		C + x			-----
+Delete						--------		Del			-----
+Delete Word to the Left				--------		C + Bk			-----
+Delete Word to the Right 			--------		C + Del			-----
+Go one word to the Left				--------		C + Left arrow		-----
+Go one word to the Right			--------		C + Right arrow		-----
+Go to the Beginning of the line			--------		Home			-----
+Go to the End of the line			--------		End			-----
+Go to Beginning of the Text			--------		C + Home		-----
+Go to End of the text				-------- 		C + End			-----
+Paste						--------		C + v			-----
+Paste(as plain text)				--------		C + S + v		-----
+Redo						--------		C + y			C + S + z
+Select all					--------		C + a			-----
+Undo 						--------		C + z			-----
+
+Search:-
+
+Find in this page				--------		C + f			-----
+Find Next					--------		F3			C + g
+Find Prev					--------		S + F3			C + S + g
+Quick Find within link-text only 		--------		'			-----
+Quick Find					--------		/			-----
+Close the Find or Quick Find bar		--------		Esc			-----
+Switch Search Engine				--------		A + up arrow		A + down arrow
+Focus Address bar for web search		--------		C + k			C + j
+Focus Seach Bar 				--------		C + k 			C + j
+
+
+Windows And Tabs :-
+
+Close Tab 					--------		C + w 			C + F4
+Close Window					--------		C + S + w		A + F4
+Cycle thourgh Tabs in Recently Used Order	--------		C + tab			------
+Quit						--------		C + q			------
+Go one Tab to the left				--------		C + Pu			------
+Go one tab to the right				--------		C + Pd			------
+Go to Tab 1 to 8				--------		A + 1 to 8		------
+Go to Last Tab					--------		A + 9			------
+Move Tab Left					--------		C + S + Pu		------
+Move Tab Right					--------		C + S + Pd		------
+Move Tab to start*				--------		C + S + home		------
+Move Tab to end* 				--------		C + S + end		------	
+*requires the currently sleected tab to be in focus for instance, by hitting A + d to focus the address bar, and then S + tab till you reach the browser tab bar.
+Mute/unmute audio 				--------		C + m			------
+New Tab						--------		C + t			------
+New Window					--------		C + n			------
+New Private Window				--------		C + S + p		------
+Open Address or Search in new background tab# 	--------		A + S + enter		------
+Open Address or Search in new foreground tab#	--------		A + enter		------
+Open address or Search in new Window#		--------		S + enter		------
+#From address bar or search tab
+Open Focused Bookmark or link in current tab	--------		enter			------
+Open Focused Bookmark or line in foreground tab	--------		C + enter		------
+Open Focused Bookmark or link in background tab --------		C + S + enter		------
+Open Focuesd Bookmark or link in new window	--------		S + enter		------
+Undo Close Tab					--------		C + S + t		------
+Undo Close Window				--------		C + S + n		------
+Moves the URL left or right$			--------		C + S + x		------
+$If cursor in the addresss bar
+
+History:- 
+
+History Sidebar					--------		C + h			------
+Library window(History)				--------		C + S + h		------
+Clear Recent History				--------		C + S + del		------
+
+Bookmarks:-
+
+Bookmark this page 				--------		C + d 			------
+Bookmarks sidebar				--------		C + b			------
+Show/hide the Bookmarks toolbar			--------		C + S + b		------
+Show all bookmarks				--------		C + S + o		------
+
+Tools:-
+
+Downloads					--------		C + S + y		------
+Add-ons						--------		C + S + a		------
+Toggle Developer Tools				--------	 	F12			C + S + i
+Web Console					--------		C + S + k		------
+Inspector					--------		C + S + c		------
+Take a screenshot				--------		C + S + s		------
+Style Editor					--------		S + F7			------
+Profiler					--------		S + F5			------
+Network						--------		C + S + e		------
+Dev toolbar					--------		S + F2			------
+Responsive Design View				--------		C + S + m		------
+Scratchpad					--------		S + F4			------
+Page Source					--------		C + u			------
+Browser Console					--------		C + S + j		------
+Page info					--------		C + i			------
+
+PDF Viewer:- 
+
+Next Page					--------		n 			j		left arrow
+Previous Page					--------		p			k		right arrow
+zoom in 					--------		C + +			------
+Zoom out					--------		C + -			------
+Automatic Zoom 					--------		C + 0			------
+Rotate the Document Clockwise			--------		r			------
+Rotate Counterclockwise				--------		S + r			------
+Switch to Presentation tool			--------		C + A + p		------
+Choose text selection tool			--------		s			------
+Choose Hand tool				--------		h			------
+Focus the Page number input box			--------		C + A + g		------
+
+Misc:-
+
+Complete .com address				--------		C + enter		------
+Delete Selected Autocomplete Entry		--------		S + del			------
+Toggle Full Screen 				--------		F11			------
+Toggle Menu Bar activation			--------		A			F10
+Toggle Reader Mode				--------		C + A + r		------
+Care Browsing					--------		F7
+Focus Address Bar 				-------- 		F6			A + d		C + l
+Focus Search Field in Library			--------		F6			C + f
+Stop Autoscroll mode				--------		esc			------
+Cancel Drag and drop				--------		esc			------
+Clear Search Filed in library or sidebar	--------		esc			------
+Close a Menu					--------		esc			Alt		F10
+Toggle Context Menu				--------		S + F10			------
+
+Media Shortcuts:- 
+
+Toggle play/pause				--------		space			------
+Dec Vol						--------		down arrow		------
+Inc Vol						--------		up arrow		------
+Mute audio					--------		C + up arrow		------
+Unmute audio					--------		C + down arrow		------
+Seek back 15 sec				--------		right arrow		------
+Seek back 10%					--------		C + right arrow		------
+Seek forward 15 sec				--------		left arrow		------
+Seek forward 10% 				--------	 	C + right arrow		------
+Seek to the begining 				--------		home			------
+Seek to the end 				--------		end			------
+
+Selection of Multiple Tabs:- 
+
+Note :- These Shortcuts only work when the tab bar is in focus. To get it in focus Do C + l to get the focus on the address bar and then S + tab till it goes to the tab bar.
+
+Select left, right, first or last tab.		--------		arrow keys home and end ------
+Move just the rectangle				--------		C + prev command	------
+Select or deselect the tab with the rect.	--------		C + space		------
+
+
+
+----------------------------------------------END-------------------------------------------------------------------------------------------------------------------------
